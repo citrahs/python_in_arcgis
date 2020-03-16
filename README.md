@@ -1,5 +1,5 @@
-# arcpy
-Beberapa pemanfaatan package ArcPy sehari-hari.
+# Python In ArcGIS
+Beberapa pemanfaatan package ArcPy, ArcGIS API for Python, dan Python dalam ArcGIS sehari-hari.
 
 ```
 git clone https://github.com/citrahs/arcpy.git
