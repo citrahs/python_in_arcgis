@@ -1,3 +1,5 @@
+#export csv to hdfs
+
 import pandas as pd
 from hdfs import InsecureClient
 import os
