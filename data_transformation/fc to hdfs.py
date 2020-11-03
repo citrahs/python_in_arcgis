@@ -1,4 +1,4 @@
-#feature class to hdfs
+#export feature class to hdfs
 
 import arcpy
 import pandas as pd
